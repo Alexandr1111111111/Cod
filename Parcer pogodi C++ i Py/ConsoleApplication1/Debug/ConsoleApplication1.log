@@ -1,0 +1,11 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\sving\Desktop\lab1\ConsoleApplication1\include\nlohmann\json.hpp(14828,9): warning C4068: неизвестная прагма "GCC"
+C:\Users\sving\Desktop\lab1\ConsoleApplication1\include\nlohmann\json.hpp(14829,9): warning C4068: неизвестная прагма "GCC"
+C:\Users\sving\Desktop\lab1\ConsoleApplication1\include\nlohmann\json.hpp(14846,9): warning C4068: неизвестная прагма "GCC"
+C:\Users\sving\Desktop\lab1\ConsoleApplication1\include\nlohmann\json.hpp(15987,9): warning C4068: неизвестная прагма "GCC"
+C:\Users\sving\Desktop\lab1\ConsoleApplication1\include\nlohmann\json.hpp(15988,9): warning C4068: неизвестная прагма "GCC"
+C:\Users\sving\Desktop\lab1\ConsoleApplication1\include\nlohmann\json.hpp(15997,9): warning C4068: неизвестная прагма "GCC"
+C:\Users\sving\Desktop\lab1\ConsoleApplication1\include\nlohmann\json.hpp(23372,9): warning C4068: неизвестная прагма "GCC"
+C:\Users\sving\Desktop\lab1\ConsoleApplication1\include\nlohmann\json.hpp(23373,9): warning C4068: неизвестная прагма "GCC"
+C:\Users\sving\Desktop\lab1\ConsoleApplication1\include\nlohmann\json.hpp(23438,9): warning C4068: неизвестная прагма "GCC"
+  ConsoleApplication1.vcxproj -> C:\Users\sving\Desktop\lab1\ConsoleApplication1\Debug\ConsoleApplication1.exe
